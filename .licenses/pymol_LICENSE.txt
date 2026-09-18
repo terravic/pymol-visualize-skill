@@ -1,0 +1,9 @@
+PyMOL Open-Source License Notice
+--------------------------------
+Notice Date: 2026-09-15T13:14:20Z
+
+PyMOL is produced and distributed under the PyMOL Open-Source License and open-source licensing terms.
+Please review the official license terms and documentation at:
+https://www.pymol.org/
+
+This automated environment uses pymol-open-source-whl for headless molecular visualization under compatible open-source licensing terms.

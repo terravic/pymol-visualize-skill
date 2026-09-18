@@ -1,0 +1,1 @@
+skills/pymol-visualize/SKILL.md
